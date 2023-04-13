@@ -23,26 +23,40 @@ function Feed() {
           <Post 
           displayName="megha varshini m" 
           username="mxghx"
-          verified = "true"
+          verified = ""
           text="post 1"
           image="https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif?fit=450%2C250&ssl=1"
-          avatars ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-png-vectors%2Fdog-logo&psig=AOvVaw3FmcEA3YqConV9wDEpxWtF&ust=1681456988631000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPihjMappv4CFQAAAAAdAAAAABAJ"
+          avatars ="https://cdn-prod.medicalnewstoday.com/content/images/articles/322/322868/golden-retriever-puppy.jpg"
           />
           
      
        
         <Post
-          displayName="user 2" 
-          username="ABCuser"
-          verified = ""
+          displayName="megan fox" 
+          username="meganuser"
+          verified = "true"
           text="post 2"
-          avatars="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fdog-logo-design--624874517029834217%2F&psig=AOvVaw3FmcEA3YqConV9wDEpxWtF&ust=1681456988631000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPihjMappv4CFQAAAAAdAAAAABAE"
-          image="https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif?fit=450%2C250&ssl=1"
+          avatars="https://m.media-amazon.com/images/M/MV5BMTc5MjgyMzk4NF5BMl5BanBnXkFtZTcwODk2OTM4Mg@@._V1_FMjpg_UX1000_.jpg"
+          image="https://media.tumblr.com/tumblr_mcbfrsUQKF1r68qz5.gif"
         />
-        <Post/>
-        <Post/>
-        <Post/>
-        
+        <Post
+         displayName="brad pitt" 
+         username="bradhere"
+         verified = "true"
+         text="look at me smile"
+        avatars="https://cdn.britannica.com/61/137461-050-BB6C5D80/Brad-Pitt-2008.jpg"
+        image="https://media.tenor.com/1q5vLyWdhGwAAAAM/brad-pitt.gif"
+        />
+        <Post
+        displayName="ford" 
+        username="fordgt"
+        verified = "true"
+        text="brand new mustang 2023"
+        avatars="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ford_logo_flat.svg/640px-Ford_logo_flat.svg.png"
+        image="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/4e9a7794-1663012415.jpg?resize=480:*"
+       />
+
+                
        
     </div>
   )
