@@ -14,7 +14,7 @@
    margin-left: 20px;
    margin-bottom: 20px;
 }
-.sidebar{
+.sidebar{ 
    border-right: 1px solid var(--twitter-background) ;
    flex:0.3;
    margin-top: 20px;

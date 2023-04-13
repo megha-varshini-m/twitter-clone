@@ -9,4 +9,4 @@ function SidebarOption({active, text, Icon}) {
   )
 }
 
-export default SidebarOption
+export default SidebarOption 

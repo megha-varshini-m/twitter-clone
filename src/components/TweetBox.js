@@ -12,7 +12,7 @@ function TweetBox() {
       <Avatar src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7u9xdjc2wSHDcnYd2y0iNTVoUJXJAEWrXRA&usqp=CAU"/>
       <input placeholder="What's Happening?" type="text"/>  
       </div>
-
+ 
       <input className='tweetBox__imageInput' 
       placeholder="Optional: Enter image URL" 
       type="text"/> 

@@ -27,7 +27,7 @@ function Post({
                     {verified && <VerifiedIcon className='post__badge'/>}@{username}
                 </span>
             </h3>
-        </div> 
+        </div>  
         <div className='post__headerDescription'>
             <p>
                 {text}
