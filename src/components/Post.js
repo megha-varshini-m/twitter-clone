@@ -1,6 +1,6 @@
 import ChatBubbleOutlineIcon from '@mui/icons-material/ChatBubbleOutline';
 import VerifiedIcon from '@mui/icons-material/Verified';
-import { Avatar } from '@mui/material'
+import { Avatar } from '@mui/material';
 import React from 'react'
 import RepeatIcon from '@mui/icons-material/Repeat';
 import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
@@ -12,12 +12,12 @@ function Post({
     verified,
     text,
     image,
-    avatar
+    avatars
 }) {
   return (
     <div className='post'>
        <div className='post__avatar'> 
-       <Avatar src={avatar}/>
+       <Avatar src={avatars} alt=""/>
        </div> 
        <div className='post__Body'>
         <div className='post__header'>
